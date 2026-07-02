@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/catalog.faiss
+data/catalog_embeddings.npy
+.venv/
+venv/
